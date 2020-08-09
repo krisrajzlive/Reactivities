@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krishnamur\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krishnamur\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krishnamur\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\krishnamur\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\krishnamur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krishnamur\\source\\repos\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\krisrajz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\krishnamur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krisrajz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +27,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
-          "http://bwdgemsdevbi3:8080/tfs/BusinessApps/_packaging/BWDG/nuget/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
