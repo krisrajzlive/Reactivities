@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZIz8v2F0D5sDayuPOYfDV1GEW8Fkaxm3hEMsCVeXoy/JQ4VeXi6qjoGE5rZ5vtn7E4dzIgwB3EWueiAZeLvMpg==",
+  "dgSpecHash": "Sp/g0Es1v5ifiYXB07aC8LhXVLTNBnhjPM5OexTHlaHvU4tBfFcQLwr19QZ3tOOMq2s4gazAmL6YPzgkpSUEYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krisrajz\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\krisrajz\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",

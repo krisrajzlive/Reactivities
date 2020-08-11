@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\API\\API.csproj": {}
+    "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\API\\API.csproj": {
+    "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\API\\API.csproj",
+        "projectPath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\krisrajz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\API\\obj\\",
+        "outputPath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
