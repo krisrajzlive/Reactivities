@@ -1,8 +1,5 @@
 using System;
-using Domain;
-using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -25,6 +22,7 @@ namespace API
                 {
                     var context = services.GetRequiredService<DataContext>();
                     context.Database.Migrate();
+                    Seed.SeedData(context);
                 }
                 catch(Exception ex)
                 {

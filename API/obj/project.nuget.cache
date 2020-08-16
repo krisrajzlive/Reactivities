@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Sp/g0Es1v5ifiYXB07aC8LhXVLTNBnhjPM5OexTHlaHvU4tBfFcQLwr19QZ3tOOMq2s4gazAmL6YPzgkpSUEYw==",
+  "dgSpecHash": "gE9GBAhp2P6vmgFY8mgwFGfOpC7J6ragBqXtVfxmcYwqII5CpOGcCi1ggLfAiliuR89PqPBMEy4sHI3QEx+tZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\krisrajz\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\krisrajz\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\krisrajz\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\krisrajz\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "C:\\Users\\krisrajz\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.0\\microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",

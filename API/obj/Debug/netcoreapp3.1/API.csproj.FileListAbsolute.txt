@@ -100,3 +100,5 @@ C:\Users\krisrajz\source\repos\Reactivities\Reactivities\API\obj\Debug\netcoreap
 C:\Users\krisrajz\source\repos\Reactivities\Reactivities\API\obj\Debug\netcoreapp3.1\API.dll
 C:\Users\krisrajz\source\repos\Reactivities\Reactivities\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\Users\krisrajz\source\repos\Reactivities\Reactivities\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\krisrajz\source\repos\Reactivities\Reactivities\api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\krisrajz\source\repos\Reactivities\Reactivities\api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll

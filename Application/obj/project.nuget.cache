@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rMG93yXNZr/aZuLmpujZTXPrYwGU/hDZ9Dpa5MmISOwHfp/exoa4uOk2N/xQXPBcj8LqnYqrI+u/pedBtjGBsw==",
+  "dgSpecHash": "C3UNcq4N9WMbT4KkAvOfSbd0u0edgQ/3wZ+xJ07cbW7fAgfpZ6VokJagB7HMm6PuMXv06XuPKZBBltCiOWZiPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\krisrajz\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\krisrajz\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\krisrajz\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\krisrajz\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "C:\\Users\\krisrajz\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.0\\microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
