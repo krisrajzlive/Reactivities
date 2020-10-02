@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gE9GBAhp2P6vmgFY8mgwFGfOpC7J6ragBqXtVfxmcYwqII5CpOGcCi1ggLfAiliuR89PqPBMEy4sHI3QEx+tZw==",
+  "dgSpecHash": "WcF/y6151Qji8BPLNTzkMc3UZ5Agm4fvf5lfQM6VZJ6rLJiwd+Mts3stJ+7Iz7WFfH/+zWghg3XBfa6XKLkhFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\krisrajz\\source\\repos\\Reactivities\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krisrajz\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\krisrajz\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
